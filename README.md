@@ -20,6 +20,7 @@ name already exists, a number is added, e.g. photo (1).png
 ffmpeg and ImageMagick must be installed and available in windows powershell:
 
     winget install Gyan.FFmpeg
+  
     winget install ImageMagick.ImageMagick
 
 Restart Explorer or sign out and back in after installing, so that it picks
